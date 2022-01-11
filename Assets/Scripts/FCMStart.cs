@@ -25,8 +25,8 @@ public class FCMStart : MonoBehaviour
             }
         });
     }
+
     // Start is called before the first frame update
-    
         public void Start()
         {
             Firebase.Messaging.FirebaseMessaging.TokenReceived += OnTokenReceived;
