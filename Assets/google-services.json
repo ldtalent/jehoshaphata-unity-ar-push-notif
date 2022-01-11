@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059979949061",
+    "project_id": "ar-notification-blog",
+    "storage_bucket": "ar-notification-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059979949061:android:b02ef175cc29cc7048d86c",
+        "android_client_info": {
+          "package_name": "com.DajihoStudio.LDTBlogProjectARNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059979949061-pobdf7kpo4gtectdebpchi7udff17fnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYTjisr5e72CjBZKTzr7Tf90tOORf6PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059979949061-pobdf7kpo4gtectdebpchi7udff17fnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
